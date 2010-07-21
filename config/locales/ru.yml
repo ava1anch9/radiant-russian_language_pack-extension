@@ -73,7 +73,7 @@ ru:
   filter_references:
     no_docs: 'Для используемого фильтра нет документации.'
     no_filter: 'На данной page part не используется фильтр.'
-  hidden: 'Скрыта'
+  hidden: 'Скрыто'
   hide: 'Скрыть'
   keywords: 'Ключевые слова'
   language: 'Язык'
@@ -117,8 +117,8 @@ ru:
   preferences_controller:
     error_updating: "Ошибка при сохранении настроек."
     updated: "Ваши настройки сохранены"
-  published: 'Опубликована'
-  published_on: 'Опубликована'
+  published: 'Опубликовано'
+  published_on: 'Опубликовано'
   redirects: 'Перенаправления'
   reference:  'Справка'
   reference_for:  'Справка'
@@ -137,11 +137,12 @@ ru:
     saved: "Данные сохранены."
     update_conflict: "Данные были модифицированы с момента загрузки. Измененмя не могут быть сохранены т.к. возможна потеря информации."
     validation_errors: "Форма содержит ошибки. Для продолжения проверьте и исправьте пожалуйста введенные данные."
-  reviewed: 'Проверена'
+  reviewed: 'Проверено'
   roles: 'Роли'
   saving_changes: Сохранение изменений
   saving_preferences: Сохранение настроек
   search_tags: 'Поиск по тэгам:'
+  scheduled: 'Публикуется'
   select:
     inherit: '<наследовать>'
     none: '<нет>'
